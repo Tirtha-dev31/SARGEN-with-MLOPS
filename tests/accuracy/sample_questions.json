@@ -1,0 +1,7 @@
+[
+  "What are the high-risk cases?",
+  "Summarize the total suspicious amount and top patterns.",
+  "Explain the fan-out pattern observed in the highest-risk case.",
+  "How many transactions were analyzed in the last 30 days?",
+  "List three recommended actions for the highest-risk case."
+]
