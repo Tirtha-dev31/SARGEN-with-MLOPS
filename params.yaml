@@ -1,0 +1,36 @@
+# Parameters for ML pipeline and DVC stages
+
+# Random seed for reproducibility
+random_state: 42
+
+# Data preparation parameters
+data:
+  sample_size: null  # null = use all data, or specify number
+  date_range: null   # Optional date filtering
+
+# Feature engineering parameters
+features:
+  velocity_window_days: 30
+  min_transactions: 5
+
+# Model training parameters
+train:
+  test_size: 0.2
+  model_params:
+    n_estimators: 100
+    max_depth: 10
+    min_samples_split: 5
+    min_samples_leaf: 2
+    class_weight: balanced
+
+# Model evaluation thresholds
+evaluation:
+  min_accuracy: 0.85
+  min_f1_score: 0.80
+  
+# MLflow configuration
+mlflow:
+  experiment_name: "sargen_pattern_detection"
+  run_name: "dvc_pipeline_run"
+  model_name: "sargen_fraud_detector"
+  tracking_uri: "./mlruns"

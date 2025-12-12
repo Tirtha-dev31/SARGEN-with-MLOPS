@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1761990047746
+current_stage: None
+description: null
+last_updated_timestamp: 1761990047746
+name: sargen_pattern_detection_model
+run_id: 108ea9acd1124d109fc01b90e1eaa16d
+run_link: null
+source: file:///c:/Users/Vivek/Downloads/archive%20%281%29/sargen/mlruns/398524972858422964/108ea9acd1124d109fc01b90e1eaa16d/artifacts/pattern_detection_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Vivek/Downloads/archive%20%281%29/sargen/mlruns/398524972858422964/108ea9acd1124d109fc01b90e1eaa16d/artifacts/pattern_detection_model
+user_id: null
+version: 1

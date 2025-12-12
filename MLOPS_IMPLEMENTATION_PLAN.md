@@ -415,7 +415,7 @@ git push -u origin main
 ### Step 2: Clone for MLOps
 ```bash
 cd ..
-git clone https://github.com/YOUR_USERNAME/sargen.git sargen-mlops
+git clone https://github.com/Tirtha-dev31/sargen.git sargen-mlops
 cd sargen-mlops
 git checkout -b mlops-integration
 ```

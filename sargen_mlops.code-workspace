@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "sargen",
+			"path": "."
+		}
+	],
+	"settings": {
+		"chat.agent.maxRequests": 100
+	}
+}
