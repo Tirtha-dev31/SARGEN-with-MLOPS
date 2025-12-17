@@ -21,11 +21,15 @@ A full-stack web application that automates the generation of regulatory Suspici
 - **Database**: PostgreSQL for transaction data and reports
 - **Security**: JWT authentication with role-based permissions
 
-- 
-<img width="1878" height="808" alt="image" src="https://github.com/user-attachments/assets/4ff92516-3842-4862-9c98-8dfcab49af57" />
-
+  
+- **Interactive Dashboard**: Case management and investigation workflow
 
 <img width="1896" height="866" alt="image" src="https://github.com/user-attachments/assets/35ced36d-552c-4eab-8ddc-118fc4beb9aa" />
+
+
+- **AI COPILOT CHATBOT FOR ASSISTANCE**: Ask any questions related to cases .
+
+<img width="1878" height="808" alt="image" src="https://github.com/user-attachments/assets/4ff92516-3842-4862-9c98-8dfcab49af57" />
 
 
 <img width="1864" height="743" alt="image" src="https://github.com/user-attachments/assets/31b35e2a-c845-4087-b712-ebfc99cb9b94" />
